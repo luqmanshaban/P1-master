@@ -60,6 +60,15 @@
     width: auto;
  }
 
+ #select {
+  text-transform:  uppercase; 
+ }
+
+ #pckg {
+ justify-content: center
+}
+
+
 
 
 
@@ -117,3 +126,33 @@ li {
   background-image: url(./images/nationalPark1.jpg);
   height: 70vh;
  }
+
+
+
+ /**/
+ body{
+  background-color:#eee;
+}
+
+.card{
+  
+  border:none;
+}
+
+.user-content p{
+  margin-top:5px;
+  font-size:12px;
+}
+
+
+.ratings i{
+  color:blue;
+}
+
+#payment {
+  justify-content: center;
+}
+
+
+
+
