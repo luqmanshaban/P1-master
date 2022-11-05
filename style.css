@@ -70,7 +70,9 @@
 
 
 
-
+#dateform {
+  padding: 10px;
+}
 
 #cp {
     font-size: 40px;
@@ -152,7 +154,5 @@ li {
 #payment {
   justify-content: center;
 }
-
-
 
 
