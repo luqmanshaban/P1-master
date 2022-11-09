@@ -126,6 +126,11 @@
   display: inline;
  }
 
+ #aboutbg{
+  background-image: url(./images/karura.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
 
 
   
